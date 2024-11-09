@@ -19,7 +19,7 @@ export const getCommentsData = async () => {
         _id: "b",
         name: "Paul M. Williams",
       },
-      desc: "a reply for Mohammad",
+      desc: "a reply for Frank",
       post: "1",
       parent: "10",
       replyOnUser: "a",
